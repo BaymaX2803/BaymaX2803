@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hariii</h1>
-<h3 align="center">A sophomore at Amrita University</h3>
+<h3 align="center">A Junior at Amrita University</h3>
 
 # 💫 About Me:
 <b>🌱 I’m currently learning Typescript😁<br>⚡ Fun fact I can code with one hand while holding a cup of coffee with the other. ☕💻😏</b>
