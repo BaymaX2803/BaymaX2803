@@ -2,7 +2,7 @@
 <h3 align="center">A sophomore at Amrita University</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Typescript😁<br>⚡ Fun fact I can code with one hand while holding a cup of coffee with the other. ☕💻😏
+<b>🌱 I’m currently learning Typescript😁<br>⚡ Fun fact I can code with one hand while holding a cup of coffee with the other. ☕💻😏</b>
 
 
 ## 🌐 Socials:
