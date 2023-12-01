@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hariii</h1>
 <h3 align="center">A Junior CSE-AI student at Amrita University</h3>
 
-- 🌱 I’m currently learning **Image segmentation😁**
+- 🌱 I’m currently learning **Image segmentation🖼️:**
 
 - 🤩 I’m interested in **Parallax animations**
 
